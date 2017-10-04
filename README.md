@@ -19,3 +19,8 @@ Name: Jeff Wolf
 Bio: Gaming Software Engineer  
 Place: Columbus  
 Email: jeff.wolf2015@gmail.com  
+
+Name: Nikita Seliverstov
+Bio: Student  
+Place: Estonia  
+Email: fubirino@gmail.com  
