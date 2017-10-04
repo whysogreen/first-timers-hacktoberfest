@@ -19,3 +19,8 @@ Name: Jeff Wolf
 Bio: Gaming Software Engineer  
 Place: Columbus  
 Email: jeff.wolf2015@gmail.com  
+
+Name: Mayur Vashishth
+Bio: Student
+Place: India
+Email: xaiphron@gmail.com
