@@ -15,6 +15,11 @@ Facebook: JoeBobTheCannonFakeUser
 
 [Add yourself here]
 
+Name: Mark Ngo  
+Bio: College Student  
+Place: College Park 
+Email: markanthonyngo@gmail.com 
+
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
 Place: Columbus  
