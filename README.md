@@ -15,6 +15,11 @@ Facebook: JoeBobTheCannonFakeUser
 
 [Add yourself here]
 
+Name: Chris Sullivan
+Bio: Computer Science Student at University of Maryland
+Place: Maryland
+Twitter: @codemastermd
+
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
 Place: Columbus  
