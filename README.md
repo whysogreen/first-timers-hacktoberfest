@@ -13,7 +13,12 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
-[Add yourself here]
+Name: Geovani Perez França 
+Bio: Data Scientist Student. 
+Place: Hortolândia / São Paulo
+Website: geovanifranca.com.br
+Twitter: @geovanipfranca  
+Facebook: fb.com/geovanipfranca
 
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
