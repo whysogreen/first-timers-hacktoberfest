@@ -25,6 +25,11 @@ Bio: College Student
 Place: College Park 
 Email: markanthonyngo@gmail.com 
 
+Name: Chris Sullivan
+Bio: Computer Science Student at University of Maryland
+Place: Maryland
+Twitter: @codemastermd
+
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
 Place: Columbus  
