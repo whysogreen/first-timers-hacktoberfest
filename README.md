@@ -26,6 +26,12 @@ Place: Columbus
 Email: jeff.wolf2015@gmail.com  
 
 
+Name: Nikita Seliverstov
+Bio: Student  
+Place: Estonia  
+Email: fubirino@gmail.com  
+
+
 Name: Mayur Vashishth
 Bio: Student
 Place: India
