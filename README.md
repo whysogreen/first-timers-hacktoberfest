@@ -20,6 +20,11 @@ Website: geovanifranca.com.br
 Twitter: @geovanipfranca  
 Facebook: fb.com/geovanipfranca
 
+Name: Mark Ngo  
+Bio: College Student  
+Place: College Park 
+Email: markanthonyngo@gmail.com 
+
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
 Place: Columbus  
