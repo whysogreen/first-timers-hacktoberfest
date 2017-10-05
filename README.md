@@ -13,22 +13,22 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
-Name: Geovani Perez França 
-Bio: Data Scientist Student. 
-Place: Hortolândia / São Paulo
-Website: geovanifranca.com.br
+Name: Geovani Perez França  
+Bio: Data Scientist Student.   
+Place: Hortolândia / São Paulo  
+Website: geovanifranca.com.br  
 Twitter: @geovanipfranca  
-Facebook: fb.com/geovanipfranca
+Facebook: fb.com/geovanipfranca  
 
 Name: Mark Ngo  
 Bio: College Student  
-Place: College Park 
-Email: markanthonyngo@gmail.com 
+Place: College Park  
+Email: markanthonyngo@gmail.com  
 
-Name: Chris Sullivan
-Bio: Computer Science Student at University of Maryland
-Place: Maryland
-Twitter: @codemastermd
+Name: Chris Sullivan  
+Bio: Computer Science Student at University of Maryland  
+Place: Maryland  
+Twitter: @codemastermd  
 
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
@@ -36,18 +36,18 @@ Place: Columbus
 Email: jeff.wolf2015@gmail.com  
 
 
-Name: Nikita Seliverstov
+Name: Nikita Seliverstov  
 Bio: Student  
 Place: Estonia  
 Email: fubirino@gmail.com  
 
 
-Name: Mayur Vashishth
-Bio: Student
-Place: India
-Email: xaiphron@gmail.com
+Name: Mayur Vashishth  
+Bio: Student  
+Place: India  
+Email: xaiphron@gmail.com  
 
-Name: Igor Souza
-Bio: Infra Dev
-Place: Brazil
-Email: igordcsouza@me.com
+Name: Igor Souza  
+Bio: Infra Dev  
+Place: Brazil  
+Email: igordcsouza@me.com  
