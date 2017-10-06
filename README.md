@@ -1,4 +1,4 @@
-# Great First Timers
+﻿# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -50,4 +50,7 @@ Email: xaiphron@gmail.com
 Name: Igor Souza  
 Bio: Infra Dev  
 Place: Brazil  
-Email: igordcsouza@me.com  
+Email: igordcsouza@me.com  Name: Ruslan Ignatjev  
+Bio: Student  
+Place: Estonia  
+Email: toxicmelon123@gmail.com
