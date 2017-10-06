@@ -52,15 +52,21 @@ Bio: Infra Dev
 Place: Brazil  
 Email: igordcsouza@me.com  
 
+Name: Asutosh Panda  
+Bio: Colege student and Data Analysis entusiast!  
+Place: India  
+Email: asutoshpanda989@gmail.com  
+Facebook: https://www.facebook.com/asutosh.panda2  
+
 Name: Ruslan Ignatjev  
 Bio: Student  
 Place: Estonia  
 Email: toxicmelon123@gmail.com  
 
-Name: Manaswini Das
-Bio: Student and open source enthusiast
-Place: India
-Email: dasmanaswini10@gmail.com
+Name: Manaswini Das  
+Bio: Student and open source enthusiast  
+Place: India  
+Email: dasmanaswini10@gmail.com  
 
 Name: Pallavi Das  
 Bio: Student  
