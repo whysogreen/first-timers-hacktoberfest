@@ -5,7 +5,7 @@ Some awesome first timers! Please add your name, bio, website, place, facebook o
 ### Example
 
 Name: Joe Bob  
-Bio: I eat people!  
+Bio: I am a great guy!  
 Place: City of the Joe  
 Website: joethecannonball.fakewebsite.com  
 Twitter: JoeBobTheCannonFakeUser  
