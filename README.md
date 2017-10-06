@@ -51,3 +51,9 @@ Name: Igor Souza
 Bio: Infra Dev  
 Place: Brazil  
 Email: igordcsouza@me.com  
+
+Name: Asutosh Panda  
+Bio: Colege student and Data Analysis entusiast!  
+Place: India  
+Email: asutoshpanda989@gmail.com  
+Facebook: https://www.facebook.com/asutosh.panda2  
