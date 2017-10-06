@@ -51,3 +51,8 @@ Name: Igor Souza
 Bio: Infra Dev  
 Place: Brazil  
 Email: igordcsouza@me.com  
+
+Name: Pallavi Das
+Bio: Student
+Place: India
+Email: pallavidas3010@gmail.com
