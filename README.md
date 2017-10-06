@@ -1,4 +1,4 @@
-# Great First Timers
+﻿# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -52,13 +52,17 @@ Bio: Infra Dev
 Place: Brazil  
 Email: igordcsouza@me.com  
 
+Name: Ruslan Ignatjev  
+Bio: Student  
+Place: Estonia  
+Email: toxicmelon123@gmail.com  
+
 Name: Manaswini Das
 Bio: Student and open source enthusiast
 Place: India
 Email: dasmanaswini10@gmail.com
 
-Name: Pallavi Das
-Bio: Student
-Place: India
-Email: pallavidas3010@gmail.com
-
+Name: Pallavi Das  
+Bio: Student  
+Place: India  
+Email: pallavidas3010@gmail.com  
