@@ -51,3 +51,8 @@ Name: Igor Souza
 Bio: Infra Dev  
 Place: Brazil  
 Email: igordcsouza@me.com  
+
+Name: Manaswini Das
+Bio: Student and open source enthusiast
+Place: India
+Email: dasmanaswini10@gmail.com
