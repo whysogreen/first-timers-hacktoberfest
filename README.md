@@ -56,3 +56,9 @@ Name: Manaswini Das
 Bio: Student and open source enthusiast
 Place: India
 Email: dasmanaswini10@gmail.com
+
+Name: Pallavi Das
+Bio: Student
+Place: India
+Email: pallavidas3010@gmail.com
+
