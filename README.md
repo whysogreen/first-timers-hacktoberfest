@@ -47,6 +47,11 @@ Bio: Student
 Place: India  
 Email: xaiphron@gmail.com  
 
+Name: JM Santos 
+Bio: Software Developer
+Place: Philippines
+Email: johnmichaelubas.santos@gmail.com
+
 Name: Igor Souza  
 Bio: Infra Dev  
 Place: Brazil  
