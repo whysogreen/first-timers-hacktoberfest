@@ -1,4 +1,4 @@
-# Great First Timers
+﻿# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -47,6 +47,11 @@ Bio: Student
 Place: India  
 Email: xaiphron@gmail.com  
 
+Name: JM Santos 
+Bio: Software Developer
+Place: Philippines
+Email: johnmichaelubas.santos@gmail.com
+
 Name: Igor Souza  
 Bio: Infra Dev  
 Place: Brazil  
@@ -59,3 +64,52 @@ Website: https://theonlinelifesaver.com
 Email: info@theonlinelifesaver.com  
 Twitter: WarfordDesigns  
 Facebook: TheOnlineLifesaver   
+
+Name: Justin Lim Wei Kit  
+Bio: Software Engineer  
+Place: Kuala Lumpur, Malaysia  
+Email: juslwk@gmail.com  
+Facebook: fb.com/juslwk  
+Website: juslwk.com  
+
+Name: Hakim Razalan  
+Bio: Developer  
+Place: Malaysia  
+Email: akimrr@gmail.com  
+
+Name: Asutosh Panda  
+Bio: Colege student and Data Analysis entusiast!  
+Place: India  
+Email: asutoshpanda989@gmail.com  
+Facebook: https://www.facebook.com/asutosh.panda2  
+
+Name: Ruslan Ignatjev  
+Bio: Student  
+Place: Estonia  
+Email: toxicmelon123@gmail.com  
+
+Name: Manaswini Das  
+Bio: Student and open source enthusiast  
+Place: India  
+Email: dasmanaswini10@gmail.com  
+
+Name: Pallavi Das  
+Bio: Student  
+Place: India  
+Email: pallavidas3010@gmail.com  
+
+Name: Shankhalika Sarkar
+Bio: Coding is fun. 
+Place: India  
+Email: shankhalika.s@gmail.com
+
+Name: David Y.  
+Bio: Developer  
+Place: USA  
+Email: imdavidy@gmail.com  
+
+Name: Mohammed Saud  
+Bio: Self taught programmer.  
+Place: Bangalore  
+Email: md.saud020@gmail.com  
+Facebook: fb.com/rotttencandy  
