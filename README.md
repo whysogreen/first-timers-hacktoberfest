@@ -1,4 +1,4 @@
-﻿# Great First Timers
+# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -52,10 +52,10 @@ Bio: Student
 Place: India  
 Email: xaiphron@gmail.com  
 
-Name: JM Santos 
-Bio: Software Developer
-Place: Philippines
-Email: johnmichaelubas.santos@gmail.com
+Name: JM Santos  
+Bio: Software Developer  
+Place: Philippines  
+Email: johnmichaelubas.santos@gmail.com  
 
 Name: Igor Souza  
 Bio: Infra Dev  
@@ -103,10 +103,10 @@ Bio: Student
 Place: India  
 Email: pallavidas3010@gmail.com  
 
-Name: Shankhalika Sarkar
-Bio: Coding is fun. 
-Place: India  
-Email: shankhalika.s@gmail.com
+Name: Shankhalika Sarkar  
+Bio: Coding is fun.  
+Place: India   
+Email: shankhalika.s@gmail.com  
 
 Name: David Y.  
 Bio: Developer  
