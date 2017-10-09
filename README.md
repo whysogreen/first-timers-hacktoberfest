@@ -90,15 +90,18 @@ Bio: Student
 Place: India  
 Email: pallavidas3010@gmail.com  
 
+Name: Shankhalika Sarkar
+Bio: Coding is fun. 
+Place: India  
+Email: shankhalika.s@gmail.com
 
-Name: David Y.
-Bio: Developer
-Place: USA
-Email: imdavidy@gmail.com
+Name: David Y.  
+Bio: Developer  
+Place: USA  
+Email: imdavidy@gmail.com  
 
-Name: Mohammed Saud
-Bio: Self taught programmer.
-Place: Bangalore
-Email: md.saud020@gmail.com
-Facebook: fb.com/rotttencandy
-
+Name: Mohammed Saud  
+Bio: Self taught programmer.  
+Place: Bangalore  
+Email: md.saud020@gmail.com  
+Facebook: fb.com/rotttencandy  
