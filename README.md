@@ -13,6 +13,11 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
+Name: Tommy Yang  
+Bio: Computer Science Student   
+Place: Maryland     
+Email: tommyyandmd@gmail.com  
+
 Name: Geovani Perez França  
 Bio: Data Scientist Student.   
 Place: Hortolândia / São Paulo  
