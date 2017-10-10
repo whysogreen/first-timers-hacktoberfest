@@ -123,3 +123,8 @@ Name: Deepak Senapati
 Bio: Student  
 Place: India  
 Email: senapati.dipak97@gmail.com  
+
+Name: Haley Smith
+Bio: Graphic & Web Designer
+Place: Orlando, Fl / Travelling
+Email: haleysmith0124@gmail.com
