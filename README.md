@@ -118,3 +118,8 @@ Bio: Self taught programmer.
 Place: Bangalore  
 Email: md.saud020@gmail.com  
 Facebook: fb.com/rotttencandy  
+
+Name: Deepak Senapati  
+Bio: Student  
+Place: India  
+Email: senapati.dipak97@gmail.com  
