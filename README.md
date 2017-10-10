@@ -1,4 +1,4 @@
-﻿# Great First Timers
+# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -12,6 +12,11 @@ Twitter: JoeBobTheCannonFakeUser
 Facebook: JoeBobTheCannonFakeUser  
 
 ## First timers
+
+Name: Tommy Yang  
+Bio: Computer Science Student   
+Place: Maryland     
+Email: tommyyandmd@gmail.com  
 
 Name: Geovani Perez França  
 Bio: Data Scientist Student.   
@@ -47,10 +52,23 @@ Bio: Student
 Place: India  
 Email: xaiphron@gmail.com  
 
+Name: JM Santos  
+Bio: Software Developer  
+Place: Philippines  
+Email: johnmichaelubas.santos@gmail.com  
+
 Name: Igor Souza  
 Bio: Infra Dev  
 Place: Brazil  
 Email: igordcsouza@me.com  
+
+Name: Chad Warford   
+Bio: Fullstack Developer / Open Source Enthusiast    
+Place: Toronto, Canada    
+Website: https://theonlinelifesaver.com   
+Email: info@theonlinelifesaver.com  
+Twitter: WarfordDesigns  
+Facebook: TheOnlineLifesaver   
 
 Name: Justin Lim Wei Kit  
 Bio: Software Engineer  
@@ -85,7 +103,23 @@ Bio: Student
 Place: India  
 Email: pallavidas3010@gmail.com  
 
-Name: Deepak Senapati
-Bio: Student
-Place: India
-Email: senapati.dipak97@gmail.com
+Name: Shankhalika Sarkar  
+Bio: Coding is fun.  
+Place: India   
+Email: shankhalika.s@gmail.com  
+
+Name: David Y.  
+Bio: Developer  
+Place: USA  
+Email: imdavidy@gmail.com  
+
+Name: Mohammed Saud  
+Bio: Self taught programmer.  
+Place: Bangalore  
+Email: md.saud020@gmail.com  
+Facebook: fb.com/rotttencandy  
+
+Name: Deepak Senapati  
+Bio: Student  
+Place: India  
+Email: senapati.dipak97@gmail.com 
