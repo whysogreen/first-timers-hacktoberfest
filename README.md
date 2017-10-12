@@ -139,7 +139,7 @@ Bio: Tech Enthusiast, Open Source Contributor. Interested in Machine Learning an
 Place: India  
 Twitter: @anishaswain  
 
-Name: yati padia
-Bio:student
-Place: India
-Email: yatipadia1998@gmail.com
+Name: yati padia  
+Bio:student  
+Place: India  
+Email: yatipadia1998@gmail.com  
