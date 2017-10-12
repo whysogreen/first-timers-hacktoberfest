@@ -124,12 +124,17 @@ Bio: Student
 Place: India  
 Email: senapati.dipak97@gmail.com  
 
-Name: Haley Smith
-Bio: Graphic & Web Designer
-Place: Orlando, Fl / Travelling
-Email: haleysmith0124@gmail.com
+Name: Haley Smith  
+Bio: Graphic & Web Designer  
+Place: Orlando, Fl / Travelling  
+Email: haleysmith0124@gmail.com  
 
 Name: Raghavendra Vedula  
 Bio: Student and Machine Learning entusiast!  
 Place: India  
 Email: vedularaghavendra03@gmail.com  
+
+Name: Anisha Swain  
+Bio: Tech Enthusiast, Open Source Contributor. Interested in Machine Learning and MEAN Stack.  
+Place: India  
+Twitter: @anishaswain  
