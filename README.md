@@ -128,3 +128,8 @@ Name: Haley Smith
 Bio: Graphic & Web Designer
 Place: Orlando, Fl / Travelling
 Email: haleysmith0124@gmail.com
+
+Name: Anisha Swain 
+Bio: Tech Enthusiast, Open Source Contributor. Interested in Machine Learning and MEAN Stack.
+Place: India
+Twitter: @@anishaswain 
