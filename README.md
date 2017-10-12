@@ -128,3 +128,8 @@ Name: Haley Smith
 Bio: Graphic & Web Designer
 Place: Orlando, Fl / Travelling
 Email: haleysmith0124@gmail.com
+
+Name: Raghavendra Vedula  
+Bio: Student and Machine Learning entusiast!  
+Place: India  
+Email: vedularaghavendra03@gmail.com  
