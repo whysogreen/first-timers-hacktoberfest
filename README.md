@@ -149,3 +149,9 @@ Bio: Student
 Place: India 
 Email: rkpattnaik780@gmail.com 
 Facebook: https://www.facebook.com/ramakrishna.pattnaik
+
+Name: Akshit Mittal  
+Bio: Student and Interested in Machine Learning and Data Science!  
+Place: India  
+Email: smittal3797@gmail.com
+
