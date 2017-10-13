@@ -145,10 +145,10 @@ Place: India
 Email: yatipadia1998@gmail.com  
 
 Name: Ramakrishna Pattnaik  
-Bio: Student   
-Place: India
-Email: rkpattnaik780@gmail.com
-Facebook: https://www.facebook.com/ramakrishna.pattnaik
+Bio: Student  
+Place: India  
+Email: rkpattnaik780@gmail.com  
+Facebook: https://www.facebook.com/ramakrishna.pattnaik  
 
 Name: Akshit Mittal  
 Bio: Student and Interested in Machine Learning and Data Science!  
