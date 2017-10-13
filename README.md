@@ -150,6 +150,11 @@ Place: India
 Email: rkpattnaik780@gmail.com
 Facebook: https://www.facebook.com/ramakrishna.pattnaik
 
+Name: Aimee
+Bio: Front-End Web Developer
+Place: England; UK  
+Github: darkxangel84  
+
 Name: Aquib Baig  
 Bio: Student  
 Place: India  
