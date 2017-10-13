@@ -165,7 +165,7 @@ Bio: Student
 Place: India  
 Email: aquibbaig97@gmail.com  
 
-Name : Raj Pathare
-Bio : Student
-Place : India
-Github : RajPathare
+Name : Raj Pathare  
+Bio : Student  
+Place : India  
+Github : RajPathare  
