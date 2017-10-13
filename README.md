@@ -146,6 +146,11 @@ Email: yatipadia1998@gmail.com
 
 Name: Ramakrishna Pattnaik  
 Bio: Student   
-Place: India 
-Email: rkpattnaik780@gmail.com 
+Place: India
+Email: rkpattnaik780@gmail.com
 Facebook: https://www.facebook.com/ramakrishna.pattnaik
+
+Name: Aquib Baig  
+Bio: Student  
+Place: India  
+Email: aquibbaig97@gmail.com  
