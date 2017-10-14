@@ -175,6 +175,11 @@ Bio: Student
 Place: India  
 Email: subhamtandon98@gmail.com 
 
+Name: Megha Priyadarshini
+Bio: Student
+Place: India
+Github: mpriyadarshini
+
 Name: Havvy
 Bio: Tupperware  
 Place: USA
