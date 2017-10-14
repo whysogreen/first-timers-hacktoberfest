@@ -175,8 +175,23 @@ Bio: Student
 Place: India  
 Email: subhamtandon98@gmail.com 
 
-Name   : Vivek Ghanchi
-Bio    : Student/AR-VR Developer
-Place  : India
-Email  : vivekghanchi12345@gmail.com
-Twitter: @vivek_ghanchi
+Name   : Vivek Ghanchi  
+Bio    : Student/AR-VR Developer  
+Place  : India  
+Email  : vivekghanchi12345@gmail.com  
+Twitter: @vivek_ghanchi  
+
+Name: Megha Priyadarshini
+Bio: Student
+Place: India
+Github: mpriyadarshini
+
+Name: Havvy  
+Bio: Tupperware  
+Place: USA  
+Email: test-user-havvy@gmail.com 
+
+Name: Srabani Paikray  
+Bio: Student  
+Place: India  
+Email: srabanipaikray98@gmail.com  
