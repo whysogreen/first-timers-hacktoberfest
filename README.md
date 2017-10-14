@@ -195,3 +195,9 @@ Name: Srabani Paikray
 Bio: Student  
 Place: India  
 Email: srabanipaikray98@gmail.com  
+
+Name: Abinash Panda
+Bio: Student/MLenthusiast
+place: India
+Email: abinashp437@gmail.com
+github: praabi
