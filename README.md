@@ -173,7 +173,7 @@ Github : RajPathare
 Name: Subham Tandon
 Bio: Student  
 Place: India  
-Email: subhamtandon98@gmail.com 
+Email: subhamtandon98@gmail.com
 
 Name   : Vivek Ghanchi  
 Bio    : Student/AR-VR Developer  
@@ -189,7 +189,7 @@ Github: mpriyadarshini
 Name: Havvy  
 Bio: Tupperware  
 Place: USA  
-Email: test-user-havvy@gmail.com 
+Email: test-user-havvy@gmail.com
 
 Name: Srabani Paikray  
 Bio: Student  
@@ -202,9 +202,14 @@ place: India
 Email: abinashp437@gmail.com
 github: praabi
 
-Name: N V S Abhishek
-Bio: Student 
+Name: Harishankar  
+Bio: Web dev  
+place: India  
+Email: harishankards@gmail.com  
+
+Name: N V S Abhishek  
+Bio: Student  
 Place: India  
-Email: nvsabhishek.india@gmail.com
-GitHub: [NVS16](https://github.com/NVS16)
-Twitter: [_NVS16_](https://twitter.com/_NVS16_)
+Email: nvsabhishek.india@gmail.com  
+GitHub: [NVS16](https://github.com/NVS16)  
+Twitter: [_NVS16_](https://twitter.com/_NVS16_)  
