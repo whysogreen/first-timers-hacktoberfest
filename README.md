@@ -202,8 +202,14 @@ place: India
 Email: abinashp437@gmail.com
 github: praabi
 
-Name: Harishankar
-Bio: Web dev
-place: India
-Email: harishankards@gmail.com
-github: harishankards
+Name: Harishankar  
+Bio: Web dev  
+place: India  
+Email: harishankards@gmail.com  
+
+Name: N V S Abhishek  
+Bio: Student  
+Place: India  
+Email: nvsabhishek.india@gmail.com  
+GitHub: [NVS16](https://github.com/NVS16)  
+Twitter: [_NVS16_](https://twitter.com/_NVS16_)  
