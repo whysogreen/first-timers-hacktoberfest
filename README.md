@@ -213,3 +213,9 @@ Place: India
 Email: nvsabhishek.india@gmail.com  
 GitHub: [NVS16](https://github.com/NVS16)  
 Twitter: [_NVS16_](https://twitter.com/_NVS16_)  
+
+Name: P Ganesh Patro  
+Bio: Student  
+place: India  
+Email: ganeshpatro321@gmail.com  
+github: ganeshpatro321  
