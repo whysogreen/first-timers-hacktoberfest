@@ -181,26 +181,26 @@ Place  : India
 Email  : vivekghanchi12345@gmail.com  
 Twitter: @vivek_ghanchi  
 
-Name: Megha Priyadarshini
-Bio: Student
-Place: India
-Github: mpriyadarshini
+Name: Megha Priyadarshini  
+Bio: Student  
+Place: India  
+Github: mpriyadarshini  
 
 Name: Havvy  
 Bio: Tupperware  
 Place: USA  
-Email: test-user-havvy@gmail.com
+Email: test-user-havvy@gmail.com  
 
 Name: Srabani Paikray  
 Bio: Student  
 Place: India  
 Email: srabanipaikray98@gmail.com  
 
-Name: Abinash Panda
-Bio: Student/MLenthusiast
-place: India
-Email: abinashp437@gmail.com
-github: praabi
+Name: Abinash Panda  
+Bio: Student/MLenthusiast  
+place: India  
+Email: abinashp437@gmail.com  
+github: praabi  
 
 Name: Harishankar  
 Bio: Web dev  
