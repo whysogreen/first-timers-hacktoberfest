@@ -217,5 +217,5 @@ Twitter: [_NVS16_](https://twitter.com/_NVS16_)
 Name: P Ganesh Patro  
 Bio: Student  
 place: India  
-Email: ganeshpatro321@gmail.com
-github: ganeshpatro321 
+Email: ganeshpatro321@gmail.com  
+github: ganeshpatro321  
