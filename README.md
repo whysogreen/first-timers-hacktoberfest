@@ -218,4 +218,10 @@ Name: P Ganesh Patro
 Bio: Student  
 place: India  
 Email: ganeshpatro321@gmail.com  
-github: ganeshpatro321  
+github: ganeshpatro321 
+
+Name: Arathi Nair  
+Bio: Student  
+place: India  
+Email: arathi.n97@gmail.com  
+github: arti97 
