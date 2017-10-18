@@ -250,3 +250,9 @@ Bio: Developer
 Place: India  
 Email: mm000143@gmail.com  
 github: mm000143
+
+Name: Borja Giraldez
+Bio: Student  
+Place: Spain  
+Email: giraldez122@gmail.com
+GitHub: [giraldez122](https://github.com/giraldez122)  
