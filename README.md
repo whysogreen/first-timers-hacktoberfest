@@ -244,3 +244,8 @@ Place: Maryland
 Email: rpcalderon86@gmail.com   
 Twitter: RositaPCalderon  
 github: rpcalderon  
+
+Name: Patrick Sedlacek
+Bio: Student
+Place: Iowa
+github: dunkhelExploit
