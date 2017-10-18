@@ -237,3 +237,10 @@ Bio: Student
 place: India  
 Email: arathi.n97@gmail.com  
 github: arti97 
+
+Name: Rosita Calderon 
+Bio: Developer  
+Place: Maryland  
+Email: rpcalderon86@gmail.com  
+Twitter: RositaPCalderon 
+github: rpcalderon  
