@@ -217,8 +217,8 @@ Twitter: [_NVS16_](https://twitter.com/_NVS16_)
 Name: P Ganesh Patro  
 Bio: Student  
 place: India  
-Email: ganeshpatro321@gmail.com  
-github: ganeshpatro321  
+Email: ganeshpatro321@gmail.com  
+github: ganeshpatro321  
 
 Name: Karishma  
 Bio: Student  
@@ -238,9 +238,9 @@ place: India
 Email: arathi.n97@gmail.com  
 github: arti97 
 
-Name: Rosita Calderon 
+Name: Rosita Calderon  
 Bio: Developer  
 Place: Maryland  
-Email: rpcalderon86@gmail.com  
-Twitter: RositaPCalderon 
+Email: rpcalderon86@gmail.com   
+Twitter: RositaPCalderon  
 github: rpcalderon  
