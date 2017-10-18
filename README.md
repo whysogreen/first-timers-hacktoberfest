@@ -244,3 +244,9 @@ Place: Maryland
 Email: rpcalderon86@gmail.com   
 Twitter: RositaPCalderon  
 github: rpcalderon  
+
+Name: Borja Giraldez
+Bio: Student  
+Place: Spain  
+Email: giraldez122@gmail.com
+GitHub: [giraldez122](https://github.com/giraldez122)  
