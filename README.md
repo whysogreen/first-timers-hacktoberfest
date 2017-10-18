@@ -220,12 +220,17 @@ place: India
 Email: ganeshpatro321@gmail.com  
 github: ganeshpatro321  
 
+Name: Karishma  
+Bio: Student  
+place: India  
+Email: karishmaag@gmail.com  
+github: 08karishma  
+
 Name: Agni Panda  
 BIO: Student  
 Place: India  
 Email:agnipanda69@gmail.com  
 github:https://github.com/agnipanda  
-github: ganeshpatro321 
 
 Name: Arathi Nair  
 Bio: Student  
