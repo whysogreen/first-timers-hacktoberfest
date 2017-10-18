@@ -224,4 +224,16 @@ Name: Karishma
 Bio: Student  
 place: India  
 Email: karishmaag@gmail.com  
-github: 08karishma
+github: 08karishma  
+
+Name: Agni Panda  
+BIO: Student  
+Place: India  
+Email:agnipanda69@gmail.com  
+github:https://github.com/agnipanda  
+
+Name: Arathi Nair  
+Bio: Student  
+place: India  
+Email: arathi.n97@gmail.com  
+github: arti97 
