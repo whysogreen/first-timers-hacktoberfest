@@ -223,7 +223,7 @@ github: ganeshpatro321  
 Name: Siddhant Mund
 Bio: Student  
 place: India  
-Email: shaktimund97@@gmail.com  
+Email: shaktimund97@gmail.com  
 github: iamsid2
 
 Name: Karishma  
