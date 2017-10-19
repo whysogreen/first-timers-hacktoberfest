@@ -262,6 +262,12 @@ Place: Spain
 Email: giraldez122@gmail.com  
 GitHub: [giraldez122](https://github.com/giraldez122)  
 
+Name: Hemant Kumar  
+Bio: Student  
+Place: India  
+Email: hka24@gmail.com  
+GitHub: [hka27](https://github.com/hka27)
+
 Name: Nitin Singh  
 Bio: Student  
 Place: India  
