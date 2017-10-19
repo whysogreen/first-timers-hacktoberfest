@@ -261,3 +261,9 @@ Bio: Student
 Place: Spain  
 Email: giraldez122@gmail.com  
 GitHub: [giraldez122](https://github.com/giraldez122)  
+
+Name: Nitin Singh  
+Bio: Student  
+Place: India  
+Email: nitin12111@gmail.com  
+GitHub: [nitin3333](https://github.com/nitin3333) 
