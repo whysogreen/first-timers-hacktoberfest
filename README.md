@@ -220,6 +220,12 @@ place: India
 Email: ganeshpatro321@gmail.com  
 github: ganeshpatro321  
 
+Name: Siddhant Mund
+Bio: Student  
+place: India  
+Email: shaktimund97@gmail.com  
+github: iamsid2
+
 Name: Karishma  
 Bio: Student  
 place: India  
