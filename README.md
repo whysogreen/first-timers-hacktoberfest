@@ -4,284 +4,290 @@ Some awesome first timers! Please add your name, bio, website, place, facebook o
 
 ### Example
 
-Name: Joe Bob  
-Bio: I am a great guy!  
-Place: City of the Joe  
-Website: joethecannonball.fakewebsite.com  
-Twitter: JoeBobTheCannonFakeUser  
-Facebook: JoeBobTheCannonFakeUser  
+Name: Joe Bob
+Bio: I am a great guy!
+Place: City of the Joe
+Website: joethecannonball.fakewebsite.com
+Twitter: JoeBobTheCannonFakeUser
+Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
-Name: Tommy Yang  
-Bio: Computer Science Student   
-Place: Maryland     
-Email: tommyyandmd@gmail.com  
+Name: Tommy Yang
+Bio: Computer Science Student
+Place: Maryland
+Email: tommyyandmd@gmail.com
 
-Name: Geovani Perez França  
-Bio: Data Scientist Student.   
-Place: Hortolândia / São Paulo  
-Website: geovanifranca.com.br  
-Twitter: @geovanipfranca  
-Facebook: fb.com/geovanipfranca  
+Name: Geovani Perez França
+Bio: Data Scientist Student.
+Place: Hortolândia / São Paulo
+Website: geovanifranca.com.br
+Twitter: @geovanipfranca
+Facebook: fb.com/geovanipfranca
 
-Name: Mark Ngo  
-Bio: College Student  
-Place: College Park  
-Email: markanthonyngo@gmail.com  
+Name: Mark Ngo
+Bio: College Student
+Place: College Park
+Email: markanthonyngo@gmail.com
 
-Name: Chris Sullivan  
-Bio: Computer Science Student at University of Maryland  
-Place: Maryland  
-Twitter: @codemastermd  
+Name: Chris Sullivan
+Bio: Computer Science Student at University of Maryland
+Place: Maryland
+Twitter: @codemastermd
 
-Name: Jeff Wolf  
-Bio: Gaming Software Engineer  
-Place: Columbus  
-Email: jeff.wolf2015@gmail.com  
-
-
-Name: Nikita Seliverstov  
-Bio: Student  
-Place: Estonia  
-Email: fubirino@gmail.com  
+Name: Jeff Wolf
+Bio: Gaming Software Engineer
+Place: Columbus
+Email: jeff.wolf2015@gmail.com
 
 
-Name: Mayur Vashishth  
-Bio: Student  
-Place: India  
-Email: xaiphron@gmail.com  
+Name: Nikita Seliverstov
+Bio: Student
+Place: Estonia
+Email: fubirino@gmail.com
 
-Name: JM Santos  
-Bio: Software Developer  
-Place: Philippines  
-Email: johnmichaelubas.santos@gmail.com  
 
-Name: Igor Souza  
-Bio: Infra Dev  
-Place: Brazil  
-Email: igordcsouza@me.com  
+Name: Mayur Vashishth
+Bio: Student
+Place: India
+Email: xaiphron@gmail.com
 
-Name: Chad Warford   
-Bio: Fullstack Developer / Open Source Enthusiast    
-Place: Toronto, Canada    
-Website: https://theonlinelifesaver.com   
-Email: info@theonlinelifesaver.com  
-Twitter: WarfordDesigns  
-Facebook: TheOnlineLifesaver   
+Name: JM Santos
+Bio: Software Developer
+Place: Philippines
+Email: johnmichaelubas.santos@gmail.com
 
-Name: Justin Lim Wei Kit  
-Bio: Software Engineer  
-Place: Kuala Lumpur, Malaysia  
-Email: juslwk@gmail.com  
-Facebook: fb.com/juslwk  
-Website: juslwk.com  
+Name: Igor Souza
+Bio: Infra Dev
+Place: Brazil
+Email: igordcsouza@me.com
 
-Name: Hakim Razalan  
-Bio: Developer  
-Place: Malaysia  
-Email: akimrr@gmail.com  
+Name: Chad Warford
+Bio: Fullstack Developer / Open Source Enthusiast
+Place: Toronto, Canada
+Website: https://theonlinelifesaver.com
+Email: info@theonlinelifesaver.com
+Twitter: WarfordDesigns
+Facebook: TheOnlineLifesaver
 
-Name: Asutosh Panda  
-Bio: Colege student and Data Analysis entusiast!  
-Place: India  
-Email: asutoshpanda989@gmail.com  
-Facebook: https://www.facebook.com/asutosh.panda2  
+Name: Justin Lim Wei Kit
+Bio: Software Engineer
+Place: Kuala Lumpur, Malaysia
+Email: juslwk@gmail.com
+Facebook: fb.com/juslwk
+Website: juslwk.com
 
-Name: Ruslan Ignatjev  
-Bio: Student  
-Place: Estonia  
-Email: toxicmelon123@gmail.com  
+Name: Hakim Razalan
+Bio: Developer
+Place: Malaysia
+Email: akimrr@gmail.com
 
-Name: Manaswini Das  
-Bio: Student and open source enthusiast  
-Place: India  
-Email: dasmanaswini10@gmail.com  
+Name: Asutosh Panda
+Bio: Colege student and Data Analysis entusiast!
+Place: India
+Email: asutoshpanda989@gmail.com
+Facebook: https://www.facebook.com/asutosh.panda2
 
-Name: Pallavi Das  
-Bio: Student  
-Place: India  
-Email: pallavidas3010@gmail.com  
+Name: Ruslan Ignatjev
+Bio: Student
+Place: Estonia
+Email: toxicmelon123@gmail.com
 
-Name: Shankhalika Sarkar  
-Bio: Coding is fun.  
-Place: India   
-Email: shankhalika.s@gmail.com  
+Name: Manaswini Das
+Bio: Student and open source enthusiast
+Place: India
+Email: dasmanaswini10@gmail.com
 
-Name: David Y.  
-Bio: Developer  
-Place: USA  
-Email: imdavidy@gmail.com  
+Name: Pallavi Das
+Bio: Student
+Place: India
+Email: pallavidas3010@gmail.com
 
-Name: Mohammed Saud  
-Bio: Self taught programmer.  
-Place: Bangalore  
-Email: md.saud020@gmail.com  
-Facebook: fb.com/rotttencandy  
+Name: Shankhalika Sarkar
+Bio: Coding is fun.
+Place: India
+Email: shankhalika.s@gmail.com
 
-Name: Deepak Senapati  
-Bio: Student  
-Place: India  
-Email: senapati.dipak97@gmail.com  
+Name: David Y.
+Bio: Developer
+Place: USA
+Email: imdavidy@gmail.com
 
-Name: Haley Smith  
-Bio: Graphic & Web Designer  
-Place: Orlando, Fl / Travelling  
-Email: haleysmith0124@gmail.com  
+Name: Mohammed Saud
+Bio: Self taught programmer.
+Place: Bangalore
+Email: md.saud020@gmail.com
+Facebook: fb.com/rotttencandy
 
-Name: Raghavendra Vedula  
-Bio: Student and Machine Learning entusiast!  
-Place: India  
-Email: vedularaghavendra03@gmail.com  
+Name: Deepak Senapati
+Bio: Student
+Place: India
+Email: senapati.dipak97@gmail.com
 
-Name: Anisha Swain  
-Bio: Tech Enthusiast, Open Source Contributor. Interested in Machine Learning and MEAN Stack.  
-Place: India  
-Twitter: @anishaswain  
+Name: Haley Smith
+Bio: Graphic & Web Designer
+Place: Orlando, Fl / Travelling
+Email: haleysmith0124@gmail.com
 
-Name: yati padia  
-Bio:student  
-Place: India  
-Email: yatipadia1998@gmail.com  
+Name: Raghavendra Vedula
+Bio: Student and Machine Learning entusiast!
+Place: India
+Email: vedularaghavendra03@gmail.com
 
-Name: Ramakrishna Pattnaik  
-Bio: Student  
-Place: India  
-Email: rkpattnaik780@gmail.com  
-Facebook: https://www.facebook.com/ramakrishna.pattnaik  
+Name: Anisha Swain
+Bio: Tech Enthusiast, Open Source Contributor. Interested in Machine Learning and MEAN Stack.
+Place: India
+Twitter: @anishaswain
 
-Name: Akshit Mittal  
-Bio: Student and Interested in Machine Learning and Data Science!  
-Place: India  
-Email: smittal3797@gmail.com  
+Name: yati padia
+Bio:student
+Place: India
+Email: yatipadia1998@gmail.com
 
-Name: Aimee  
-Bio: Front-End Web Developer  
-Place: England; UK  
-Github: darkxangel84  
+Name: Ramakrishna Pattnaik
+Bio: Student
+Place: India
+Email: rkpattnaik780@gmail.com
+Facebook: https://www.facebook.com/ramakrishna.pattnaik
 
-Name: Aquib Baig  
-Bio: Student  
-Place: India  
-Email: aquibbaig97@gmail.com  
+Name: Akshit Mittal
+Bio: Student and Interested in Machine Learning and Data Science!
+Place: India
+Email: smittal3797@gmail.com
 
-Name : Raj Pathare  
-Bio : Student  
-Place : India  
-Github : RajPathare  
+Name: Aimee
+Bio: Front-End Web Developer
+Place: England; UK
+Github: darkxangel84
+
+Name: Aquib Baig
+Bio: Student
+Place: India
+Email: aquibbaig97@gmail.com
+
+Name : Raj Pathare
+Bio : Student
+Place : India
+Github : RajPathare
 
 Name: Subham Tandon
-Bio: Student  
-Place: India  
+Bio: Student
+Place: India
 Email: subhamtandon98@gmail.com
 
-Name   : Vivek Ghanchi  
-Bio    : Student/AR-VR Developer  
-Place  : India  
-Email  : vivekghanchi12345@gmail.com  
-Twitter: @vivek_ghanchi  
+Name   : Vivek Ghanchi
+Bio    : Student/AR-VR Developer
+Place  : India
+Email  : vivekghanchi12345@gmail.com
+Twitter: @vivek_ghanchi
 
-Name: Megha Priyadarshini  
-Bio: Student  
-Place: India  
-Github: mpriyadarshini  
+Name: Megha Priyadarshini
+Bio: Student
+Place: India
+Github: mpriyadarshini
 
-Name: Havvy  
-Bio: Tupperware  
-Place: USA  
-Email: test-user-havvy@gmail.com  
+Name: Havvy
+Bio: Tupperware
+Place: USA
+Email: test-user-havvy@gmail.com
 
-Name: Srabani Paikray  
-Bio: Student  
-Place: India  
-Email: srabanipaikray98@gmail.com  
+Name: Srabani Paikray
+Bio: Student
+Place: India
+Email: srabanipaikray98@gmail.com
 
-Name: Abinash Panda  
-Bio: Student/MLenthusiast  
-place: India  
-Email: abinashp437@gmail.com  
-github: praabi  
+Name: Abinash Panda
+Bio: Student/MLenthusiast
+place: India
+Email: abinashp437@gmail.com
+github: praabi
 
-Name: Harishankar  
-Bio: Web dev  
-place: India  
-Email: harishankards@gmail.com  
+Name: Harishankar
+Bio: Web dev
+place: India
+Email: harishankards@gmail.com
 
-Name: N V S Abhishek  
-Bio: Student  
-Place: India  
-Email: nvsabhishek.india@gmail.com  
-GitHub: [NVS16](https://github.com/NVS16)  
-Twitter: [_NVS16_](https://twitter.com/_NVS16_)  
+Name: N V S Abhishek
+Bio: Student
+Place: India
+Email: nvsabhishek.india@gmail.com
+GitHub: [NVS16](https://github.com/NVS16)
+Twitter: [_NVS16_](https://twitter.com/_NVS16_)
 
-Name: P Ganesh Patro  
-Bio: Student  
-place: India  
+Name: P Ganesh Patro
+Bio: Student
+place: India
 Email: ganeshpatro321@gmail.com  
 github: ganeshpatro321  
 
 Name: Siddhant Mund
-Bio: Student  
-place: India  
+Bio: Student
+place: India
 Email: shaktimund97@gmail.com  
 github: iamsid2
 
-Name: Karishma  
-Bio: Student  
-place: India  
-Email: karishmaag@gmail.com  
-github: 08karishma  
+Name: Karishma
+Bio: Student
+place: India
+Email: karishmaag@gmail.com
+github: 08karishma
 
-Name: Agni Panda  
-BIO: Student  
-Place: India  
-Email:agnipanda69@gmail.com  
-github:https://github.com/agnipanda  
+Name: Agni Panda
+BIO: Student
+Place: India
+Email:agnipanda69@gmail.com
+github:https://github.com/agnipanda
 
-Name: Arathi Nair  
-Bio: Student  
-place: India  
-Email: arathi.n97@gmail.com  
-github: arti97 
+Name: Arathi Nair
+Bio: Student
+place: India
+Email: arathi.n97@gmail.com
+github: arti97
 
-Name: Rosita Calderon  
-Bio: Developer  
-Place: Maryland  
-Email: rpcalderon86@gmail.com   
-Twitter: RositaPCalderon  
-github: rpcalderon  
+Name: Rosita Calderon
+Bio: Developer
+Place: Maryland
+Email: rpcalderon86@gmail.com
+Twitter: RositaPCalderon
+github: rpcalderon
 
-Name: Patrick Sedlacek  
-Bio: Student  
-Place: Iowa  
-github: dunkhelExploit  
+Name: Patrick Sedlacek
+Bio: Student
+Place: Iowa
+github: dunkhelExploit
 
-Name: Manish  
-Bio: Developer  
-Place: India  
-Email: mm000143@gmail.com  
-github: mm000143  
+Name: Manish
+Bio: Developer
+Place: India
+Email: mm000143@gmail.com
+github: mm000143
 
-Name: Borja Giraldez  
-Bio: Student  
-Place: Spain  
-Email: giraldez122@gmail.com  
-GitHub: [giraldez122](https://github.com/giraldez122)  
+Name: Borja Giraldez
+Bio: Student
+Place: Spain
+Email: giraldez122@gmail.com
+GitHub: [giraldez122](https://github.com/giraldez122)
 
-Name: Aashay  
-Bio: Developer  
-Place: India  
-Email: aashay07@gmail.com  
-github: aashay07  
+Name: Aashay
+Bio: Developer
+Place: India
+Email: aashay07@gmail.com
+github: aashay07
 
-Name: Hemant Kumar  
-Bio: Student  
-Place: India  
-Email: hka24@gmail.com  
-GitHub: [hka27](https://github.com/hka27)  
+Name: Hemant Kumar
+Bio: Student
+Place: India
+Email: hka24@gmail.com
+GitHub: [hka27](https://github.com/hka27)
 
-Name: Nitin Singh  
-Bio: Student  
-Place: India  
-Email: nitin12111@gmail.com  
-GitHub: [nitin3333](https://github.com/nitin3333)  
+Name: Nitin Singh
+Bio: Student
+Place: India
+Email: nitin12111@gmail.com
+GitHub: [nitin3333](https://github.com/nitin3333)
+
+Name: Hidir Pekince
+Bio: I am a very great guy!
+Place: Germany
+Twitter: hdrpknc
+GitHub: hdrpknc
