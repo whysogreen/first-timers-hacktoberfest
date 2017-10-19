@@ -261,3 +261,9 @@ Bio: Student
 Place: Spain  
 Email: giraldez122@gmail.com  
 GitHub: [giraldez122](https://github.com/giraldez122)  
+
+Name: Aashay  
+Bio: Developer  
+Place: India  
+Email: aashay07@gmail.com  
+github: aashay07  
