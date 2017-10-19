@@ -220,6 +220,12 @@ place: India
 Email: ganeshpatro321@gmail.com  
 github: ganeshpatro321  
 
+Name: Siddhant Mund
+Bio: Student  
+place: India  
+Email: shaktimund97@gmail.com  
+github: iamsid2
+
 Name: Karishma  
 Bio: Student  
 place: India  
@@ -267,3 +273,15 @@ Bio: Developer
 Place: India  
 Email: aashay07@gmail.com  
 github: aashay07  
+
+Name: Hemant Kumar  
+Bio: Student  
+Place: India  
+Email: hka24@gmail.com  
+GitHub: [hka27](https://github.com/hka27)  
+
+Name: Nitin Singh  
+Bio: Student  
+Place: India  
+Email: nitin12111@gmail.com  
+GitHub: [nitin3333](https://github.com/nitin3333)  
