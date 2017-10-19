@@ -217,13 +217,13 @@ Twitter: [_NVS16_](https://twitter.com/_NVS16_)
 Name: P Ganesh Patro
 Bio: Student
 place: India
-Email: ganeshpatro321@gmail.com  
-github: ganeshpatro321  
+Email: ganeshpatro321@gmail.com
+github: ganeshpatro321
 
 Name: Siddhant Mund
 Bio: Student
 place: India
-Email: shaktimund97@gmail.com  
+Email: shaktimund97@gmail.com
 github: iamsid2
 
 Name: Karishma
@@ -285,9 +285,3 @@ Bio: Student
 Place: India
 Email: nitin12111@gmail.com
 GitHub: [nitin3333](https://github.com/nitin3333)
-
-Name: Hidir Pekince
-Bio: I am a very great guy!
-Place: Germany
-Twitter: hdrpknc
-GitHub: hdrpknc
