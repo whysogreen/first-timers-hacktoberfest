@@ -284,10 +284,10 @@ Place: India
 Email: nitin12111@gmail.com
 GitHub: [nitin3333](https://github.com/nitin3333)
 
-Name: Venu Vardhan Reddy Tekula
+Name: Venu Vardhan Reddy Tekula  
 Bio: Open Source Enthusiast!!
-Place: Kollam,India
-Website: https://vchrombie.github.io/
-Twitter: @vchrombie
+Place: Kollam, India  
+Website: https://vchrombie.github.io/ 
+Twitter: vchrombie
 Facebook: vchrombie
 GitHub: [vchrombie](https://github.com/vchrombie)
