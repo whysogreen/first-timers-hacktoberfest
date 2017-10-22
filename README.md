@@ -25,6 +25,10 @@ Website: geovanifranca.com.br
 Twitter: @geovanipfranca  
 Facebook: fb.com/geovanipfranca  
 
+Name: Gopal Chitalia  
+Bio: College Student  
+Place: Hyderabad , India  
+
 Name: Mark Ngo  
 Bio: College Student  
 Place: College Park  
@@ -287,7 +291,7 @@ GitHub: [nitin3333](https://github.com/nitin3333)
 Name: Venu Vardhan Reddy Tekula  
 Bio: Open Source Enthusiast!!
 Place: Kollam, India  
-Website: https://vchrombie.github.io/ 
+Website: https://vchrombie.github.io/
 Twitter: vchrombie
 Facebook: vchrombie
 GitHub: [vchrombie](https://github.com/vchrombie)
