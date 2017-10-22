@@ -291,3 +291,9 @@ Website: https://vchrombie.github.io/
 Twitter: vchrombie
 Facebook: vchrombie
 GitHub: [vchrombie](https://github.com/vchrombie)
+
+
+Name: Roy Sung
+Bio: Open Source Enthusiast!!
+Place: Taiwan
+GitHub: [RoySung](https://github.com/roysung)
