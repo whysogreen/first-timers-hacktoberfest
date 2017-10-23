@@ -292,9 +292,13 @@ Twitter: vchrombie
 Facebook: vchrombie
 GitHub: [vchrombie](https://github.com/vchrombie)
 
+Name: Roy Sung
+Bio: Open Source Enthusiast!!
+Place: Taiwan
+GitHub: [RoySung](https://github.com/roysung)
+
 Name: Ankit Jena
 BIO: Student
 Place: India
 Email:ankitjena13@gmail.com
 github:https://github.com/ankitjena
-
