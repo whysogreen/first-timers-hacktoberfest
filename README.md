@@ -306,3 +306,11 @@ BIO: Student
 Place: India
 Email:ankitjena13@gmail.com
 github:https://github.com/ankitjena
+
+Name: Arinna B.
+
+Bio: Part-time blogger, full-time ghost
+
+Place: Virginia, USA
+
+GitHub: [ArinnaBee](https://github.com/arinnabee)
