@@ -327,3 +327,8 @@ Name: Jorge Giraldez
 Bio: College Student  
 Place: Spain  
 GitHub: [jbaiona](https://github.com/jbaiona)  
+
+Name: Florian S.
+Bio: engineering student 
+Place: Mid Germany  
+Twitter: flo_riayn
