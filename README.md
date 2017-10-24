@@ -314,3 +314,8 @@ Bio: Part-time blogger, full-time ghost
 Place: Virginia, USA
 
 GitHub: [ArinnaBee](https://github.com/arinnabee)
+
+Name: Laine Otto-Rognlie
+Bio: Student
+Place: California
+Email: laine@kaigen.us
