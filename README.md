@@ -319,3 +319,9 @@ Name: Laine Otto-Rognlie
 Bio: Student
 Place: California
 Email: laine@kaigen.us
+
+Name: Chad Guyer
+Bio: I am an awesome guy!
+Place: Manassas, Virginia
+Website: no website
+GitHub: [chedlund](https://github.com/chedlund)
