@@ -319,3 +319,8 @@ Name: Laine Otto-Rognlie
 Bio: Student
 Place: California
 Email: laine@kaigen.us
+
+Name: Jorge Giraldez  
+Bio: College Student  
+Place: Spain
+GitHub: [jbaiona](https://github.com/jbaiona)
