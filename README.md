@@ -209,118 +209,121 @@ Bio: Web dev
 place: India
 Email: harishankards@gmail.com
 
-Name: N V S Abhishek
-Bio: Student
-Place: India
-Email: nvsabhishek.india@gmail.com
-GitHub: [NVS16](https://github.com/NVS16)
-Twitter: [_NVS16_](https://twitter.com/_NVS16_)
+Name: N V S Abhishek  
+Bio: Student  
+Place: India  
+Email: nvsabhishek.india@gmail.com  
+GitHub: [NVS16](https://github.com/NVS16)  
+Twitter: [_NVS16_](https://twitter.com/_NVS16_)  
 
-Name: P Ganesh Patro
-Bio: Student
-place: India
-Email: ganeshpatro321@gmail.com
-github: ganeshpatro321
+Name: P Ganesh Patro  
+Bio: Student  
+place: India  
+Email: ganeshpatro321@gmail.com  
+github: ganeshpatro321  
 
-Name: Siddhant Mund
-Bio: Student
-place: India
-Email: shaktimund97@gmail.com
-github: iamsid2
+Name: Siddhant Mund  
+Bio: Student  
+place: India  
+Email: shaktimund97@gmail.com  
+github: iamsid2  
 
-Name: Karishma
-Bio: Student
-place: India
-Email: karishmaag@gmail.com
-github: 08karishma
+Name: Karishma  
+Bio: Student  
+place: India  
+Email: karishmaag@gmail.com  
+github: 08karishma  
 
-Name: Agni Panda
-BIO: Student
-Place: India
-Email:agnipanda69@gmail.com
-github:https://github.com/agnipanda
+Name: Agni Panda  
+BIO: Student  
+Place: India  
+Email:agnipanda69@gmail.com  
+github:https://github.com/agnipanda  
 
-Name: Arathi Nair
-Bio: Student
-place: India
-Email: arathi.n97@gmail.com
-github: arti97
+Name: Arathi Nair  
+Bio: Student  
+place: India  
+Email: arathi.n97@gmail.com  
+github: arti97  
 
-Name: Rosita Calderon
-Bio: Developer
-Place: Maryland
-Email: rpcalderon86@gmail.com
-Twitter: RositaPCalderon
-github: rpcalderon
+Name: Rosita Calderon  
+Bio: Developer  
+Place: Maryland  
+Email: rpcalderon86@gmail.com  
+Twitter: RositaPCalderon  
+github: rpcalderon  
 
-Name: Patrick Sedlacek
-Bio: Student
-Place: Iowa
-github: dunkhelExploit
+Name: Patrick Sedlacek  
+Bio: Student  
+Place: Iowa  
+github: dunkhelExploit  
 
-Name: Manish
-Bio: Developer
-Place: India
-Email: mm000143@gmail.com
-github: mm000143
+Name: Manish  
+Bio: Developer  
+Place: India  
+Email: mm000143@gmail.com  
+github: mm000143  
 
-Name: Borja Giraldez
-Bio: Student
-Place: Spain
-Email: giraldez122@gmail.com
-GitHub: [giraldez122](https://github.com/giraldez122)
+Name: Borja Giraldez  
+Bio: Student  
+Place: Spain  
+Email: giraldez122@gmail.com  
+GitHub: [giraldez122](https://github.com/giraldez122)  
 
-Name: Aashay
-Bio: Developer
-Place: India
-Email: aashay07@gmail.com
-github: aashay07
+Name: Aashay  
+Bio: Developer  
+Place: India  
+Email: aashay07@gmail.com  
+github: aashay07  
 
-Name: Hemant Kumar
-Bio: Student
-Place: India
-Email: hka24@gmail.com
-GitHub: [hka27](https://github.com/hka27)
+Name: Hemant Kumar  
+Bio: Student  
+Place: India  
+Email: hka24@gmail.com  
+GitHub: [hka27](https://github.com/hka27)  
 
-Name: Nitin Singh
-Bio: Student
-Place: India
-Email: nitin12111@gmail.com
-GitHub: [nitin3333](https://github.com/nitin3333)
+Name: Nitin Singh  
+Bio: Student  
+Place: India  
+Email: nitin12111@gmail.com  
+GitHub: [nitin3333](https://github.com/nitin3333)  
 
 Name: Venu Vardhan Reddy Tekula  
-Bio: Open Source Enthusiast!!
+Bio: Open Source Enthusiast!!  
 Place: Kollam, India  
-Website: https://vchrombie.github.io/
-Twitter: vchrombie
-Facebook: vchrombie
-GitHub: [vchrombie](https://github.com/vchrombie)
+Website: https://vchrombie.github.io/  
+Twitter: vchrombie  
+Facebook: vchrombie  
+GitHub: [vchrombie](https://github.com/vchrombie)  
 
-Name: Roy Sung
-Bio: Open Source Enthusiast!!
-Place: Taiwan
-GitHub: [RoySung](https://github.com/roysung)
+Name: Roy Sung  
+Bio: Open Source Enthusiast!!  
+Place: Taiwan  
+GitHub: [RoySung](https://github.com/roysung)  
 
-Name: Ankit Jena
-BIO: Student
-Place: India
-Email:ankitjena13@gmail.com
-github:https://github.com/ankitjena
+Name: Ankit Jena  
+BIO: Student  
+Place: India  
+Email:ankitjena13@gmail.com  
+github:https://github.com/ankitjena  
 
-Name: Arinna B.
-
-Bio: Part-time blogger, full-time ghost
-
-Place: Virginia, USA
-
-GitHub: [ArinnaBee](https://github.com/arinnabee)
+Name: Arinna B.  
+Bio: Part-time blogger, full-time ghost  
+Place: Virginia, USA  
+GitHub: [ArinnaBee](https://github.com/arinnabee)  
 
 Name: Laine Otto-Rognlie
 Bio: Student
 Place: California
 Email: laine@kaigen.us
 
+Name: Chad Guyer  
+Bio: I am an awesome guy!  
+Place: Manassas, Virginia  
+Website: no website  
+GitHub: [chedlund](https://github.com/chedlund)  
+
 Name: Jorge Giraldez  
 Bio: College Student  
-Place: Spain
-GitHub: [jbaiona](https://github.com/jbaiona)
+Place: Spain  
+GitHub: [jbaiona](https://github.com/jbaiona)  
