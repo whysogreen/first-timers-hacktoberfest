@@ -1,4 +1,4 @@
-# Great First Timers
+﻿# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -343,3 +343,7 @@ Bio: Network Security Engineer
 Place: Boston, MA  
 GitHub: [mind-as-well](https://github.com/mind-as-well)  
 
+Name: Tyler Phillips  
+Bio: Student with interest in programming.  
+Place: UK  
+Github: [TylerPhillipsDank](https://github.com/TylerPhillipsDank)  
