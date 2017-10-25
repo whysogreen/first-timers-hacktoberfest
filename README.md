@@ -352,3 +352,7 @@ Name: Tyler Phillips
 Bio: Student with interest in programming.  
 Place: UK  
 Github: [TylerPhillipsDank](https://github.com/TylerPhillipsDank)  
+
+Name: Kelsey Warner 
+Bio: Student
+Place: USA
