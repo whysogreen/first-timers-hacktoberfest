@@ -18,6 +18,11 @@ Bio: Aspiring software developer
 Place: USA  
 Github: https://github.com/sidward35  
 
+Name: Austin Boldt
+Bio: Computer Engineering Student
+Place: CIncinnati
+Github: https://github.com/baldt
+
 Name: Tommy Yang  
 Bio: Computer Science Student  
 Place: Maryland  
