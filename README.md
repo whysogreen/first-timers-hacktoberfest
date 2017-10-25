@@ -343,3 +343,7 @@ Bio: Network Security Engineer
 Place: Boston, MA  
 GitHub: [mind-as-well](https://github.com/mind-as-well)  
 
+Name: uainejade
+Bio: brand new user
+Place: Colorado SPrings, CO
+GitHub: [uainejade](https://github.com/uainejade)
