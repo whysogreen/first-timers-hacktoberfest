@@ -182,37 +182,37 @@ Bio: Student
 Place: India
 Email: subhamtandon98@gmail.com
 
-Name   : Vivek Ghanchi
-Bio    : Student/AR-VR Developer
-Place  : India
-Email  : vivekghanchi12345@gmail.com
-Twitter: @vivek_ghanchi
+Name   : Vivek Ghanchi  
+Bio    : Student/AR-VR Developer  
+Place  : India  
+Email  : vivekghanchi12345@gmail.com  
+Twitter: @vivek_ghanchi  
 
-Name: Megha Priyadarshini
-Bio: Student
-Place: India
-Github: mpriyadarshini
+Name: Megha Priyadarshini  
+Bio: Student  
+Place: India  
+Github: mpriyadarshini  
 
-Name: Havvy
-Bio: Tupperware
-Place: USA
-Email: test-user-havvy@gmail.com
+Name: Havvy  
+Bio: Tupperware  
+Place: USA  
+Email: test-user-havvy@gmail.com  
 
-Name: Srabani Paikray
-Bio: Student
-Place: India
-Email: srabanipaikray98@gmail.com
+Name: Srabani Paikray  
+Bio: Student  
+Place: India  
+Email: srabanipaikray98@gmail.com  
 
-Name: Abinash Panda
-Bio: Student/MLenthusiast
-place: India
-Email: abinashp437@gmail.com
-github: praabi
+Name: Abinash Panda  
+Bio: Student/MLenthusiast  
+place: India  
+Email: abinashp437@gmail.com  
+github: praabi  
 
-Name: Harishankar
-Bio: Web dev
-place: India
-Email: harishankards@gmail.com
+Name: Harishankar  
+Bio: Web dev  
+place: India  
+Email: harishankards@gmail.com  
 
 Name: N V S Abhishek  
 Bio: Student  
@@ -317,10 +317,10 @@ Bio: Part-time blogger, full-time ghost
 Place: Virginia, USA  
 GitHub: [ArinnaBee](https://github.com/arinnabee)  
 
-Name: Laine Otto-Rognlie
-Bio: Student
-Place: California
-Email: laine@kaigen.us
+Name: Laine Otto-Rognlie  
+Bio: Student  
+Place: California  
+Email: laine@kaigen.us  
 
 Name: Chad Guyer  
 Bio: I am an awesome guy!  
@@ -333,7 +333,7 @@ Bio: College Student
 Place: Spain  
 GitHub: [jbaiona](https://github.com/jbaiona)  
 
-Name: Florian S.
+Name: Florian S.  
 Bio: engineering student 
 Place: Mid Germany  
 Twitter: flo_riayn  
@@ -342,6 +342,11 @@ Name: mind-as-well
 Bio: Network Security Engineer  
 Place: Boston, MA  
 GitHub: [mind-as-well](https://github.com/mind-as-well)  
+
+Name: uainejade  
+Bio: brand new user  
+Place: Colorado SPrings, CO  
+GitHub: [uainejade](https://github.com/uainejade)  
 
 Name: Tyler Phillips  
 Bio: Student with interest in programming.  
