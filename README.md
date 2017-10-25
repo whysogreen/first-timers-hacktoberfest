@@ -357,6 +357,11 @@ Name: Kelsey Warner
 Bio: Student
 Place: USA
 
+Name: Sharnell Clair
+Bio: College student - Computer Science major
+Place: USA
+Github: [Zylera](https://github.com/Zylera)
+
 Name: Carly
 Bio: Applied Math college student
 Place: Texas
