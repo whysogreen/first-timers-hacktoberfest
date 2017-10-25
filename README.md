@@ -331,4 +331,10 @@ GitHub: [jbaiona](https://github.com/jbaiona)
 Name: Florian S.
 Bio: engineering student 
 Place: Mid Germany  
-Twitter: flo_riayn
+Twitter: flo_riayn  
+
+Name: mind-as-well  
+Bio: Network Security Engineer  
+Place: Boston, MA  
+GitHub: [mind-as-well](https://github.com/mind-as-well)  
+
