@@ -13,6 +13,11 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
+Name: Sid
+Bio: Aspiring software developer
+Place: USA
+Github: https://github.com/sidward35
+
 Name: Tommy Yang  
 Bio: Computer Science Student  
 Place: Maryland  
