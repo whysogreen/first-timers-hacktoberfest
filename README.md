@@ -381,3 +381,9 @@ Name: Carly
 Bio: Applied Math college student
 Place: Texas
 GitHub: (https://github.com/cfroggie)
+
+Name: Caleb M
+Bio: Aspiring to help with local trail/park maintenance and conservation projects.
+Place: Chattanooga, TN
+Github: (https://github.com/cammer87)
+Instagram: @caleb_math
