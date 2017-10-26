@@ -18,6 +18,11 @@ Bio: Aspiring software developer
 Place: USA  
 Github: https://github.com/sidward35  
 
+Name: Austin Boldt
+Bio: Computer Engineering Student
+Place: CIncinnati
+Github: https://github.com/baldt
+
 Name: Tommy Yang  
 Bio: Computer Science Student  
 Place: Maryland  
@@ -346,7 +351,12 @@ GitHub: [mind-as-well](https://github.com/mind-as-well)
 Name: uainejade  
 Bio: brand new user  
 Place: Colorado SPrings, CO  
-GitHub: [uainejade](https://github.com/uainejade)  
+GitHub: [uainejade](https://github.com/uainejade)
+
+Name: Austin  
+Bio: Computer Science graduate  
+Place: Pittsburgh, PA    
+Github: [TheAustinJones](https://github.com/TheAustinJones)  
 
 Name: Tyler Phillips  
 Bio: Student with interest in programming.  
@@ -361,3 +371,13 @@ Name: William
 Bio: Beginner 
 Place: USA  
 Github: https://github.com/edgaewgeg  
+
+Name: Sharnell Clair
+Bio: College student - Computer Science major
+Place: USA
+Github: [Zylera](https://github.com/Zylera)
+
+Name: Carly
+Bio: Applied Math college student
+Place: Texas
+GitHub: (https://github.com/cfroggie)
