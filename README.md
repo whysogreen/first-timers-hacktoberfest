@@ -13,6 +13,11 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
+Name: YL  
+Bio: Engineer  
+Place: USA  
+Github: https://github.com/SenorYi 
+
 Name: Sid  
 Bio: Aspiring software developer  
 Place: USA  
