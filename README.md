@@ -367,6 +367,11 @@ Name: Kelsey Warner
 Bio: Student
 Place: USA
 
+Name: William  
+Bio: Beginner 
+Place: USA  
+Github: https://github.com/edgaewgeg  
+
 Name: Sharnell Clair
 Bio: College student - Computer Science major
 Place: USA
