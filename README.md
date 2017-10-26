@@ -351,7 +351,12 @@ GitHub: [mind-as-well](https://github.com/mind-as-well)
 Name: uainejade  
 Bio: brand new user  
 Place: Colorado SPrings, CO  
-GitHub: [uainejade](https://github.com/uainejade)  
+GitHub: [uainejade](https://github.com/uainejade)
+
+Name: Austin  
+Bio: Computer Science graduate  
+Place: Pittsburgh, PA    
+Github: [TheAustinJones](https://github.com/TheAustinJones)  
 
 Name: Tyler Phillips  
 Bio: Student with interest in programming.  
