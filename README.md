@@ -406,3 +406,9 @@ Name: Dilip D
 Bio: Aerospace Engineering Student
 Place: UT Austin
 Github: [Exiall1](https://github.com/Exiall1)
+
+Name: Alec S
+Bio: Electrical and Computer Engineering Student 
+Place: SUNY Oswego 
+Github: (https://github.com/asuits2) 
+
