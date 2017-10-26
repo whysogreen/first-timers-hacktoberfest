@@ -12,6 +12,10 @@ Twitter: JoeBobTheCannonFakeUser
 Facebook: JoeBobTheCannonFakeUser  
 
 ## First timers
+Name: Priyam  
+Bio: Introduction to Java and HTML  
+Place: California, USA  
+Github: https://github.com/bountyman344 
 
 Name: YL  
 Bio: Engineer  
