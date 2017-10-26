@@ -387,3 +387,8 @@ Bio: Aspiring to help with local trail/park maintenance and conservation project
 Place: Chattanooga, TN
 Github: (https://github.com/cammer87)
 Instagram: @caleb_math
+
+Name: Dilip D
+Bio: Aerospace Engineering Student
+Place: UT Austin
+Github: [Exiall1](https://github.com/Exiall1)
