@@ -74,6 +74,11 @@ Bio: Infra Dev
 Place: Brazil  
 Email: igordcsouza@me.com  
 
+Name: Gabriel Langer
+Bio: Student
+Place: Brazil
+Email: gabriel.langer94@gmail.com  
+
 Name: Chad Warford  
 Bio: Fullstack Developer / Open Source Enthusiast  
 Place: Toronto, Canada  
@@ -339,7 +344,7 @@ Place: Spain
 GitHub: [jbaiona](https://github.com/jbaiona)  
 
 Name: Florian S.  
-Bio: engineering student 
+Bio: engineering student
 Place: Mid Germany  
 Twitter: flo_riayn  
 
@@ -363,12 +368,12 @@ Bio: Student with interest in programming.
 Place: UK  
 Github: [TylerPhillipsDank](https://github.com/TylerPhillipsDank)  
 
-Name: Kelsey Warner 
+Name: Kelsey Warner
 Bio: Student
 Place: USA
 
 Name: William  
-Bio: Beginner 
+Bio: Beginner
 Place: USA  
 Github: https://github.com/edgaewgeg  
 
