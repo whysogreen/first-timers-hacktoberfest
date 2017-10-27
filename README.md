@@ -15,12 +15,12 @@ Facebook: JoeBobTheCannonFakeUser
 Name: Priyam  
 Bio: Introduction to Java and HTML  
 Place: California, USA  
-Github: https://github.com/bountyman344 
+Github: https://github.com/bountyman344
 
 Name: YL  
 Bio: Engineer  
 Place: USA  
-Github: https://github.com/SenorYi 
+Github: https://github.com/SenorYi
 
 Name: Sid  
 Bio: Aspiring software developer  
@@ -408,9 +408,9 @@ Place: UT Austin
 Github: [Exiall1](https://github.com/Exiall1)
 
 Name: Alec S
-Bio: Electrical and Computer Engineering Student 
-Place: SUNY Oswego 
-Github: (https://github.com/asuits2) 
+Bio: Electrical and Computer Engineering Student
+Place: SUNY Oswego
+Github: (https://github.com/asuits2)
 
 Name: Raj
 Bio: Engineering Student
@@ -419,4 +419,9 @@ Name: Rob F
 Bio: Network Security Analyist
 Place: Montana
 Website: none
-Github: fitz3253 
+Github: fitz3253
+
+Name: Thibaut Van Spaandonck
+Bio: Startup founder
+Place: Belgium
+GitHub: [ThibautVS](https://github.com/thibautvs)
