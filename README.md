@@ -58,6 +58,11 @@ Bio: Computer Science Student at University of Maryland
 Place: Maryland  
 Twitter: @codemastermd  
 
+Name: Elijah Kim
+Bio: Beginner Programmer
+Place: Chicago
+Website: (https://github.com/sorakayy)
+
 Name: Jeff Wolf  
 Bio: Gaming Software Engineer  
 Place: Columbus  
