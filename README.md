@@ -459,3 +459,8 @@ Name: Thibaut Van Spaandonck
 Bio: Startup founder		  
 Place: Belgium		 
 GitHub: [ThibautVS](https://github.com/thibautvs)  
+
+Name: Akanksha Acharya
+Bio: student
+Place: Bhubaneswar
+GitHub: AkankshaAcharya
