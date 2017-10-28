@@ -391,37 +391,42 @@ Bio: College student - Computer Science major
 Place: USA
 Github: [Zylera](https://github.com/Zylera)
 
-Name: Carly
-Bio: Applied Math college student
-Place: Texas
-GitHub: (https://github.com/cfroggie)
+Name: Carly  
+Bio: Applied Math college student  
+Place: Texas  
+GitHub: (https://github.com/cfroggie)  
 
-Name: Caleb M
-Bio: Aspiring to help with local trail/park maintenance and conservation projects.
-Place: Chattanooga, TN
-Github: (https://github.com/cammer87)
+Name: Caleb M  
+Bio: Aspiring to help with local trail/park maintenance and conservation projects.  
+Place: Chattanooga, TN  
+Github: (https://github.com/cammer87)  
 Instagram: @caleb_math
 
-Name: Dilip D
-Bio: Aerospace Engineering Student
-Place: UT Austin
-Github: [Exiall1](https://github.com/Exiall1)
+Name: Dilip D  
+Bio: Aerospace Engineering Student  
+Place: UT Austin  
+Github: [Exiall1](https://github.com/Exiall1)  
 
-Name: Alec S
+Name: Alec S  
 Bio: Electrical and Computer Engineering Student 
 Place: SUNY Oswego 
 Github: (https://github.com/asuits2) 
 
-Name: Raj
-Bio: Engineering Student
+Name: Raj  
+Bio: Engineering Student  
 
-Name: Rob F
-Bio: Network Security Analyist
-Place: Montana
-Website: none
-Github: fitz3253 
+Name: Rob F  
+Bio: Network Security Analyist  
+Place: Montana  
+Website: none  
+Github: fitz3253  
 
-Name: khushboo paddiyar
-Bio : Student 
-Place : Udaipur
-Github : khushboopaddiyar
+Name: khushboo paddiyar  
+Bio : Student  
+Place : Udaipur  
+Github : khushboopaddiyar  
+
+Name: Thibaut Van Spaandonck		 
+Bio: Startup founder		  
+Place: Belgium		 
+GitHub: [ThibautVS](https://github.com/thibautvs)  
