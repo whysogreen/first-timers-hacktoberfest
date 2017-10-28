@@ -402,6 +402,35 @@ Place: Chattanooga, TN
 Github: (https://github.com/cammer87)  
 Instagram: @caleb_math
 
+Name: Dilip D
+Bio: Aerospace Engineering Student
+Place: UT Austin
+Github: [Exiall1](https://github.com/Exiall1)
+
+Name: Alec S
+Bio: Electrical and Computer Engineering Student
+Place: SUNY Oswego
+Github: (https://github.com/asuits2)
+
+Name: Raj
+Bio: Engineering Student
+
+Name: Rob F
+Bio: Network Security Analyist
+Place: Montana
+Website: none
+Github: fitz3253
+
+Name: Thibaut Van Spaandonck
+Bio: Startup founder
+Place: Belgium
+GitHub: [ThibautVS](https://github.com/thibautvs)
+
+Name: Nahid Fatma
+Bio: Student
+Place: Bhubaneshwar
+Github: nfatma
+
 Name: Dilip D  
 Bio: Aerospace Engineering Student  
 Place: UT Austin  
