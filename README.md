@@ -425,3 +425,8 @@ Name: Thibaut Van Spaandonck
 Bio: Startup founder
 Place: Belgium
 GitHub: [ThibautVS](https://github.com/thibautvs)
+
+Name: Nahid Fatma
+Bio: Student
+Place: Bhubaneshwar
+Github: nfatma
