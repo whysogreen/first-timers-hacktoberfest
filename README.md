@@ -469,3 +469,8 @@ Name: Shreeyanka Rout
 Bio: Student
 Place: Bhubaneswar
 GitHub: shreeyanka98
+
+Name: Charitha Rajapakse
+Bio: Student
+Place: Sri Lanka
+GitHub: [Charitha96] (https://github.com/Charitha96)
