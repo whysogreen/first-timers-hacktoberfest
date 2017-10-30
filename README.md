@@ -474,3 +474,7 @@ Name: Charitha Rajapakse
 Bio: Student
 Place: Sri Lanka
 GitHub: [Charitha96] (https://github.com/Charitha96)
+
+Name: Manel Jayakodi
+Bio: Student
+Place: Sri Lanka
