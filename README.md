@@ -514,3 +514,8 @@ Bio: Software Engineering student
 Place: Helsinki, Finland 
 Email: gautamamrit24@gmail.com 
 GitHub: [amritg](https://github.com/amritg) 
+
+Name: Shreya Jain
+Bio: Student
+Place: India
+Github: https://github.com/sj97/
