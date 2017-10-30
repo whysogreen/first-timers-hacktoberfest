@@ -474,3 +474,8 @@ Name: Charitha Rajapakse
 Bio: Student
 Place: Sri Lanka
 GitHub: [Charitha96] (https://github.com/Charitha96)
+
+Name: Grace H
+Bio: Student
+Place: USA
+GitHub: https://github.com/graceh329
