@@ -475,14 +475,19 @@ Bio: Student
 Place: Sri Lanka
 GitHub: [Charitha96] (https://github.com/Charitha96)
 
-Name: Dimalsha Thathsara		   
-Bio: Engineering Student		 
-Place: Colombo, Sri Lanka		  
-GitHub: [Dimalshaa] (https://github.com/Dimalshaa)  
+Name: Grace H
+Bio: Student
+Place: USA
+GitHub: https://github.com/graceh329
 
-Name: Shenali Samaranayake  
-Bio: Software Engineer 
-Place: Kandana,Sri Lanka  
+Name: Dimalsha Thathsara		   		 
+Bio: Engineering Student		 		 
+Place: Colombo, Sri Lanka		  		 
+GitHub: [Dimalshaa] (https://github.com/Dimalshaa)  		 
+		
+Name: Shenali Samaranayake  		
+Bio: Software Engineer 		
+Place: Kandana,Sri Lanka  		
 Github: https://github.com/shenali
 
 Name: Rishoni De Silva
@@ -495,11 +500,11 @@ Bio: Student
 Place: Sri Lanka
 GitHub: [Nethmi96] (https://github.com/Nethmi96)
 
-Name: E.A.D sasini edirisinghe	 		
-Bio: Student at IIT	 		
-Place: Sri Lanka	 		
-GitHub: [SasiEdirisinghe](https://github.com/SasiEdirisinghe)	 		
-				
-Name: Manel Jayakodi				
-Bio: Student				
+Name: E.A.D sasini edirisinghe	 				
+Bio: Student at IIT	 				
+Place: Sri Lanka	 				
+GitHub: [SasiEdirisinghe](https://github.com/SasiEdirisinghe)	 				
+						
+Name: Manel Jayakodi						
+Bio: Student						
 Place: Sri Lanka
