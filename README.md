@@ -511,6 +511,6 @@ Place: Sri Lanka
 
 Name: Amrit Gautam  
 Bio: Software Engineering student
-Place: Helsinki, FInland 
+Place: Helsinki, Finland 
 Email: gautamamrit24@gmail.com 
 GitHub: [amritg](https://github.com/amritg) 
