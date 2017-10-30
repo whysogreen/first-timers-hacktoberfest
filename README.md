@@ -479,3 +479,8 @@ Name: Rishoni De Silva
 Bio: Undergraduate
 Place: Galle, Sri Lanka
 Github: https://github.com/rishoni
+
+Name: Nethmi Wijesinghe
+Bio: Student
+Place: Sri Lanka
+GitHub: [Nethmi96] (https://github.com/Nethmi96)
