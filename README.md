@@ -508,3 +508,9 @@ GitHub: [SasiEdirisinghe](https://github.com/SasiEdirisinghe)
 Name: Manel Jayakodi						
 Bio: Student						
 Place: Sri Lanka
+
+Name: Amrit Gautam  
+Bio: Software Engineering student
+Place: Helsinki, Finland 
+Email: gautamamrit24@gmail.com 
+GitHub: [amritg](https://github.com/amritg) 
