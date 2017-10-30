@@ -474,3 +474,8 @@ Name: Charitha Rajapakse
 Bio: Student
 Place: Sri Lanka
 GitHub: [Charitha96] (https://github.com/Charitha96)
+
+Name: Nethmi Wijesinghe
+Bio: Student
+Place: Sri Lanka
+GitHub: [Nethmi96] (https://github.com/Nethmi96)
