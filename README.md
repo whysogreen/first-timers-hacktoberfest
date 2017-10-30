@@ -480,6 +480,16 @@ Bio: Student
 Place: USA
 GitHub: https://github.com/graceh329
 
+Name: Dimalsha Thathsara		   		 
+Bio: Engineering Student		 		 
+Place: Colombo, Sri Lanka		  		 
+GitHub: [Dimalshaa] (https://github.com/Dimalshaa)  		 
+		
+Name: Shenali Samaranayake  		
+Bio: Software Engineer 		
+Place: Kandana,Sri Lanka  		
+Github: https://github.com/shenali
+
 Name: Rishoni De Silva
 Bio: Undergraduate
 Place: Galle, Sri Lanka
