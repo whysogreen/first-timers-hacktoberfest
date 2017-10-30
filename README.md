@@ -479,3 +479,13 @@ Name: Shenali Samaranayake
 Bio: Software Engineer 
 Place: Kandana,Sri Lanka  
 Github: https://github.com/shenali
+
+Name: Rishoni De Silva
+Bio: Undergraduate
+Place: Galle, Sri Lanka
+Github: https://github.com/rishoni
+
+Name: Nethmi Wijesinghe
+Bio: Student
+Place: Sri Lanka
+GitHub: [Nethmi96] (https://github.com/Nethmi96)
