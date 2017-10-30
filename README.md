@@ -475,6 +475,11 @@ Bio: Student
 Place: Sri Lanka
 GitHub: [Charitha96] (https://github.com/Charitha96)
 
+Name: Dimalsha Thathsara		   
+Bio: Engineering Student		 
+Place: Colombo, Sri Lanka		  
+GitHub: [Dimalshaa] (https://github.com/Dimalshaa)  
+
 Name: Shenali Samaranayake  
 Bio: Software Engineer 
 Place: Kandana,Sri Lanka  
