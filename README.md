@@ -475,6 +475,11 @@ Bio: Student
 Place: Sri Lanka
 GitHub: [Charitha96] (https://github.com/Charitha96)
 
+Name: E.A.D sasini edirisinghe
+Bio: Student at IIT
+Place: Sri Lanka
+GitHub: [SasiEdirisinghe](https://github.com/SasiEdirisinghe)
+
 Name: Manel Jayakodi
 Bio: Student
 Place: Sri Lanka
