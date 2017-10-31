@@ -525,6 +525,11 @@ Bio: Student
 Place: India
 Github: https://github.com/sj97/
 
+Name: Luke Gresser
+Bio: Learning web development
+Place: San Francisco, USA
+Github: https://github.com/LGresser
+
 Name: James Longs
 Bio: Student
 Place: Canada
