@@ -529,3 +529,8 @@ Name: Luke Gresser
 Bio: Learning web development
 Place: San Francisco, USA
 Github: https://github.com/LGresser
+
+Name: James Longs
+Bio: Student
+Place: Canada
+GitHub: https://github.com/jameslongs37
