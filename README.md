@@ -122,7 +122,12 @@ Facebook: https://www.facebook.com/asutosh.panda2
 Name: Ruslan Ignatjev  
 Bio: Student  
 Place: Estonia  
-Email: toxicmelon123@gmail.com  
+Email: toxicmelon123@gmail.com 
+
+Name: Amuro Ray
+Bio: Engineer 
+Place: Jaburo
+Email: shiroimobirusutsu@gmail.com
 
 Name: Manaswini Das  
 Bio: Student and open source enthusiast  
