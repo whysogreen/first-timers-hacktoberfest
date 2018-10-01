@@ -544,3 +544,7 @@ Name: Prashant Bajaj
 Bio: learning frontend web development
 Place: kanpur, uttarpradesh , INDIA
 Github: https://github.com/bajaj99prashant
+
+Name: Bruno Babo
+Bio: College Student
+Place: Zagreb, Croatia
