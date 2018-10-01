@@ -548,3 +548,9 @@ Github: https://github.com/bajaj99prashant
 Name: Bruno Babo
 Bio: College Student
 Place: Zagreb, Croatia
+
+Name: Birvarinder Singh  
+Bio: Computer Science Student and open source enthusiast  
+Place: India  
+Github: https://github.com/singhbir  
+
