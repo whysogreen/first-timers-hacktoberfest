@@ -549,6 +549,11 @@ Name: Bruno Babo
 Bio: College Student
 Place: Zagreb, Croatia
 
+Name: Aleksei Ivanov
+Bio: Crappy CS student :D
+Place: Ireland
+Github: https://github.com/Alekaei
+
 Name: Birvarinder Singh  
 Bio: Computer Science Student and open source enthusiast  
 Place: India  
