@@ -17,6 +17,11 @@ Bio: Introduction to Java and HTML
 Place: California, USA  
 Github: https://github.com/bountyman344 
 
+Name: Patrick
+Bio: Developer at a University
+Place: Iowa
+Github: https://github.com/PatrickSedlacek
+
 Name: YL  
 Bio: Engineer  
 Place: USA  
