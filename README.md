@@ -2,6 +2,8 @@
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
+[2018 List](2018.md)
+
 ### Example
 
 Name: Joe Bob  
