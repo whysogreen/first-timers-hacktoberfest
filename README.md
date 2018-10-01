@@ -539,3 +539,8 @@ Name: James Longs
 Bio: Student
 Place: Canada
 GitHub: https://github.com/jameslongs37
+
+Name: Prashant Bajaj
+Bio: learning frontend web development
+Place: kanpur, uttarpradesh , INDIA
+Github: https://github.com/bajaj99prashant
