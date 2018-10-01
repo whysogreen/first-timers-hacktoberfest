@@ -17,11 +17,6 @@ Bio: Introduction to Java and HTML
 Place: California, USA  
 Github: https://github.com/bountyman344 
 
-Name: Patrick
-Bio: Developer at a University
-Place: Iowa
-Github: https://github.com/PatrickSedlacek
-
 Name: YL  
 Bio: Engineer  
 Place: USA  
@@ -553,3 +548,18 @@ Github: https://github.com/bajaj99prashant
 Name: Bruno Babo
 Bio: College Student
 Place: Zagreb, Croatia
+
+Name: Aleksei Ivanov
+Bio: Crappy CS student :D
+Place: Ireland
+Github: https://github.com/Alekaei
+
+Name: Birvarinder Singh  
+Bio: Computer Science Student and open source enthusiast  
+Place: India  
+Github: https://github.com/singhbir  
+
+Name: Prashant Bajaj
+Bio: learning frontend web development
+Place: kanpur, uttarpradesh , INDIA
+Github: https://github.com/bajaj99prashant
