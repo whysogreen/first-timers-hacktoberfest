@@ -559,3 +559,7 @@ Bio: Computer Science Student and open source enthusiast
 Place: India  
 Github: https://github.com/singhbir  
 
+Name: Prashant Bajaj
+Bio: learning frontend web development
+Place: kanpur, uttarpradesh , INDIA
+Github: https://github.com/bajaj99prashant
