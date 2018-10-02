@@ -1,4 +1,4 @@
-﻿# Great First Timers
+# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -565,3 +565,8 @@ Name: Prashant Bajaj
 Bio: learning frontend web development
 Place: kanpur, uttarpradesh , INDIA
 Github: https://github.com/bajaj99prashant
+
+Name: B Siddhartha  
+Bio: Learning IOT  
+Place: Bangalore, INDIA  
+Github: https://github.com/bsidio 
