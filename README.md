@@ -6,6 +6,13 @@ Some awesome first timers! Please add your name, bio, website, place, facebook o
 
 ### Example
 
+Name: Igor
+Bio: I am a great guy!
+Place: City of the Igor
+Website: 
+Twitter: 
+Facebook: 
+
 Name: Joe Bob  
 Bio: I am a great guy!  
 Place: City of the Joe  
