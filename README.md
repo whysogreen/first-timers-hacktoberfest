@@ -22,12 +22,6 @@ Facebook: JoeBobTheCannonFakeUser
 
 ## First timers
 
-Name: Kirankumar Ambati
-Bio: Passionate Frontender
-Place: India
-Github: kirankumarambati
-Twitter: @_sudo_user
-
 Name: Priyam  
 Bio: Introduction to Java and HTML  
 Place: California, USA  
