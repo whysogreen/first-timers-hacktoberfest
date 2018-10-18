@@ -577,9 +577,4 @@ Github: https://github.com/bajaj99prashant
 Name: B Siddhartha  
 Bio: Learning IOT  
 Place: Bangalore, INDIA  
-Github: https://github.com/bsidio 
-
-Name: J Quinn 
-Bio: Electric Engineering Student, interested in learning to code
-Place: Columbus, USA
-Github: https://github.com/jpquinn1
+Github: https://github.com/bsidio
