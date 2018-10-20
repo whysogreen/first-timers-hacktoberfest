@@ -578,8 +578,3 @@ Name: B Siddhartha
 Bio: Learning IOT  
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio
-
-Name: Bruno Matthaus  
-Bio: UE4 developer  
-Place: Amazonas, BRAZIL  
-Github: https://github.com/bmatthaus
