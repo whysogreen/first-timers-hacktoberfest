@@ -578,3 +578,11 @@ Name: B Siddhartha
 Bio: Learning IOT  
 Place: Bangalore, INDIA  
 Github: https://github.com/bsidio
+
+Name: Amir Naghibi<br>
+Bio: Computer Science at UBC<br>
+Place: Vancouver, Canada<br>
+Website: amirnaghibi.github.io<br>
+Twitter: amir__naghibi<br>
+Github: https://github.com/amirnaghibi<br>
+
