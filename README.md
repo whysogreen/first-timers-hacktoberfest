@@ -1,4 +1,4 @@
-# Great First Timers
+﻿# Great First Timers
 
 Some awesome first timers! Please add your name, bio, website, place, facebook or/and twitter.
 
@@ -6,7 +6,7 @@ Some awesome first timers! Please add your name, bio, website, place, facebook o
 
 ### Example
 
-Name: Igor
+Name: Stephen
 Bio: I am a great guy!
 Place: City of the Igor
 Website: 
