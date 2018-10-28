@@ -585,4 +585,3 @@ Place: Vancouver, Canada<br>
 Website: amirnaghibi.github.io<br>
 Twitter: amir__naghibi<br>
 Github: https://github.com/amirnaghibi<br>
-
