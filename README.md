@@ -585,9 +585,3 @@ Place: Vancouver, Canada<br>
 Website: amirnaghibi.github.io<br>
 Twitter: amir__naghibi<br>
 Github: https://github.com/amirnaghibi<br>
-
-Name: Keegan Lawley<br>
-Bio: Web developer/college senior<br>
-Place: Panama City, FL<br>
-Website: https://keeganl.github.io<br>
-Github: https://github.com/keeganl<br>
